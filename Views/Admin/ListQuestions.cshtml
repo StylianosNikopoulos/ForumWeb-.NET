@@ -1,0 +1,18 @@
+﻿@model IEnumerable<ForumWeb.Models.Question>
+
+<h3>List Of All Questions</h3>
+<hr size="6"/>
+@foreach (var item in Model)
+{
+
+    <h4>@item.Title</h4>
+    <p>@item.Description </p>
+   
+
+    <form asp-action="DeleteQuestion" method="post" asp-route-id="@item.Id">
+        <button type="submit" class="btn btn-danger">Delete</button>
+        <hr />
+    </form>
+
+}
+

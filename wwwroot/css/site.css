@@ -1,0 +1,172 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+/* Login Register Page */
+
+.form-floating {
+    width: 115px;
+    padding: 4px;
+}
+
+.btnlogin {
+    padding: 10px 184px;
+    background-color: #007bff;
+    border-radius: 20px;
+}
+
+h6 {
+    font-size: 90px;
+    font-weight: bold;
+    font-style: italic;
+    margin-left: 75px;
+}
+
+h5 {
+    font-size: 90px;
+    font-weight: bold;
+    font-style: italic;
+    margin-left: 40px;
+}
+
+.form-control {
+    width: 312%;
+    height: 100%;
+    margin-left: 80px;
+}
+
+.form-controlC {
+    width: 312%;
+    height: 100%;
+}
+
+.form-control2 {
+    width: 100%;
+    height: 100%;
+}
+
+/* All The Other */
+
+body {
+    margin-bottom: 60px;
+    background-color: #00041a;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+    font-weight: bold;
+    font-style: italic;
+    
+}
+
+.btn1 {
+    text-decoration: none;
+    padding: 10px 20px; 
+    background-color: #007bff;
+    color: #fff;
+    border-radius: 20px;
+    transition: background-color 0.3s ease;
+}
+
+.nav-item:hover {
+    background-color: #000087; 
+    border: none;
+    color: white;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.navbar-brand:hover {
+    background-color: #000087; 
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.nav-item2:hover {
+    background-color: #2537d3;
+}
+
+.dropdown-menu:hover {
+    background-color: #2537d3;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.cta-button {
+    display: inline-block;
+    padding: 20px 40px;
+    text-decoration: none;
+    background-color: #007bff;
+    color: #fff;
+    border-radius: 40px;
+    transition: background-color 0.3s ease;
+}
+
+.cta-button:hover {
+        background-color: blue;
+        color: #fff;
+ }
+
+.body2 {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #00041a;
+}
+
+.header2 {
+    background-color: #000e85;
+    padding: 40px 0;
+    text-align: center;
+    color: white;
+    font-style: italic;
+    border-radius: 100px;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.features-section {
+    max-width: 800px;
+    margin: 30px 300px 90px ;
+    padding: 10px;
+    background-color: #000e85;
+    border-radius: 100px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.cta-section {
+    text-align: center;
+    padding: 20px;
+    background-color: #000e85;
+    border-radius: 100px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+ 
+
+  

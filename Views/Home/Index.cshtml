@@ -1,0 +1,38 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script defer src="~/js/"></script>
+    <title>Programming Q&A Forum</title>
+</head>
+<body class="body2">
+    <header class="header2">
+        <h1>Welcome to the Programming Q&A Forum</h1>
+    </header>
+    <hr size="6">
+    <section class="cta-section">
+        <h2>Get Answers to Your Coding Questions</h2>
+        <p>Join our community of passionate programmers ready to help you out.</p>
+        <a href="@Url.Action("Index", "Questions")" class="cta-button">Forum</a>
+    </section>
+    <hr size="6">
+    <section class="features-section" style="text-align:center">
+        <div class="feature">
+            <h3>Ask Questions</h3>
+            <p>Post your coding queries and get help from the community.</p>
+        </div>
+        <div class="feature">
+            <h3>Answer Questions</h3>
+            <p>Share your knowledge by helping others with their programming challenges.</p>
+        </div>
+        <div class="feature">
+            <h3>Learn Together</h3>
+            <p>Explore discussions, gain insights, and grow as a programmer.</p>
+        </div>
+    </section>
+</body>
+</html>
