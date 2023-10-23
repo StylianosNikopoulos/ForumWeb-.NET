@@ -19,6 +19,6 @@ Now you can create a new question or you can answer at the questions of other us
 
 2)If you want have access like administrator login with (Email:ste@gmail.com Password:Ynmk12345@)
 
-Now you can delete users, answers and also you can create a new question or you can answer at the questions of other users
+Now you can delete users, questions and also you can create a new question or you can answer at the questions of other users
 
 
