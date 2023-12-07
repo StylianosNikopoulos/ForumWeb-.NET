@@ -24,7 +24,6 @@ Now you can create a new question or you can answer at the questions of other us
 
 2)If you want to have access like administrator login with (Email:ste@gmail.com Password:Ynmk12345@)
 
-Now you can delete users, questions and also you can create a new question or you can answer at the questions of other users
 
 
 ![ForumWeb - Microsoft Visual Studio 10_29_2023 4_09_35 PM](https://github.com/St0011/ForumWeb/assets/59256689/9ed3c319-7961-47f5-a94b-8a4a4e958d09)
