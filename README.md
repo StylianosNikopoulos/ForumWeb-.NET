@@ -14,11 +14,11 @@
 
 **HOW TO NAVIGATE 
 
-1)First create a new account on (Register)
+1)First create a new account (Register)
 
 Now you can create a new question or you can answer at the questions of other users
 
-2)If you want have access like administrator login with (Email:ste@gmail.com Password:Ynmk12345@)
+2)If you want to have access like administrator login with (Email:ste@gmail.com Password:Ynmk12345@)
 
 Now you can delete users, questions and also you can create a new question or you can answer at the questions of other users
 
