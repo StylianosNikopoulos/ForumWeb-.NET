@@ -2,7 +2,7 @@
 
 On this Website users create an account and ask questions about programming and technology features.
 Also users answer and solve problems in related topics. Admin has access to all answers and questions
-and can delete anything he wants or ban account if someone don't follow the rules.
+and can delete anything he wants or ban account if someone don't follow the rules. All data is stored in the database
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
