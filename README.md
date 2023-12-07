@@ -9,6 +9,7 @@
 2)Open Visual Studio
 
 3)Open a project or solution and select the ForumWeb.sln
+
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 **HOW TO NAVIGATE 
