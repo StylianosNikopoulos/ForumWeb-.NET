@@ -1,15 +1,15 @@
 # ForumWeb
-**HOW TO RUN THE APP ON YOUR PC
+
+
+
+**HOW TO RUN THE APP
 
 1)Download the Zip File
 
-2)Extract all files
+2)Open Visual Studio
 
-3)Open Visual Studio
-
-4)Press (Open a project or solution)
-
-5)Select the ForumWeb.sln
+3)Open a project or solution and select the ForumWeb.sln
+-----------------------------------------------------------------------------------------------------------------------------------------
 
 **HOW TO NAVIGATE 
 
