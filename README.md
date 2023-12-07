@@ -1,6 +1,6 @@
 # ForumWeb
 
-On this site users create an account and ask questions about programming and technology features.
+On this Website users create an account and ask questions about programming and technology features.
 Also users answer and solve problems in related topics. Admin has access to all answers and questions
 and can delete anything they want or ban account if someone don't follow the rules
 
