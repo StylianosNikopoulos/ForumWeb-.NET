@@ -1,8 +1,10 @@
 # ForumWeb
 
-On this Website users create an account and ask questions about programming and technology features.
-Also users answer and solve problems in related topics. Admin has access to all answers and questions
-and can delete anything he wants or ban account if someone don't follow the rules. All data is stored in the database
+ This Website allows users to create accounts and actively engage in discussions surrounding programming and technology features. 
+ Users can pose questions, share insights, and collaboratively solve problems within the realm of related topics. 
+ The administrative backbone ensures a secure and orderly environment, granting admin access to all questions and answers. 
+ This authority enables content moderation, empowering the admin to delete content as needed or enforce account bans for rule violations. 
+ Robustly designed, the platform securely stores all data in a sophisticated database.Technologies: Visual Studio, .NET Framework, HTML, CSS, Javascript, C#
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
