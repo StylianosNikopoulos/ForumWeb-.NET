@@ -18,7 +18,7 @@
 
 Now you can create a new question or you can answer at the questions of other users
 
-2)If you want to have access like administrator login with (Email:ste@gmail.com Password:Ynmk12345@)
+
 
 
 
